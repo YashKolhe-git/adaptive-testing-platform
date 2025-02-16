@@ -1,0 +1,151 @@
+Topic,Difficulty,Question,Option 1,Option 2,Option 3,Option 4,Correct Answer
+List Comprehensions,Medium,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+Data Structures,Easy,Which data structure does not allow duplicates?,List,Set,Dictionary,Tuple,Set
+List Comprehensions,Hard,Which of the following creates a list of squares from 1 to 5?,"[x*x for x in range(1, 6)]",[x**2 for x in 1..5],"[x^2 for x in range(1, 6)]","[x*x for x in range(1, 5)]","[x*x for x in range(1, 6)]"
+Error Handling,Easy,What type of error will be raised by this code: print(1/0)?,ValueError,TypeError,ZeroDivisionError,ArithmeticError,ZeroDivisionError
+Generators,Medium,What is the key difference between a generator and a normal function?,A generator returns an iterator,A generator uses more memory,A generator cannot take arguments,There is no difference,A generator returns an iterator
+Decorators,Hard,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+List Comprehensions,Easy,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+Functions,Medium,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+List Comprehensions,Medium,What does this comprehension return: [x for x in range(10) if x%2 == 0]?,Even numbers,Odd numbers,Numbers divisible by 3,Prime numbers,Even numbers
+OOP (Object-Oriented Programming),Medium,What is the difference between a class method and an instance method?,Class methods cannot access instance variables,Instance methods cannot access class variables,Class methods can access both instance and class variables,There is no difference,Class methods cannot access instance variables
+File Handling,Medium,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+Functions,Medium,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Error Handling,Hard,What type of error will be raised by this code: print(1/0)?,ValueError,TypeError,ZeroDivisionError,ArithmeticError,ZeroDivisionError
+Decorators,Hard,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+List Comprehensions,Medium,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+List Comprehensions,Medium,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+Data Types and Variables,Hard,What keyword is used to define a variable in Python?,let,var,def,No keyword is required,No keyword is required
+Functions,Hard,What is the default return value of a Python function if no return is specified?,None,0,False,Error,None
+Functions,Hard,How can you pass a variable number of arguments to a function?,*args,*var,**kwargs,*all,*args
+File Handling,Easy,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+Generators,Easy,What is the key difference between a generator and a normal function?,A generator returns an iterator,A generator uses more memory,A generator cannot take arguments,There is no difference,A generator returns an iterator
+Functions,Easy,What is the default return value of a Python function if no return is specified?,None,0,False,Error,None
+File Handling,Hard,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+Generators,Hard,What does the yield keyword do in a Python function?,Terminates the function,Returns a value and pauses the function,Loops indefinitely,Creates a list,Returns a value and pauses the function
+Modules and Packages,Medium,Which command is used to import a module in Python?,import,include,load,fetch,import
+Functions,Hard,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Decorators,Hard,Which symbol is used to apply a decorator in Python?,@,#,&,*,@
+Data Structures,Easy,Which is a mutable data structure in Python?,Tuple,Set,List,String,List
+File Handling,Easy,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+Functions,Easy,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Functions,Easy,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Error Handling,Easy,What type of error will be raised by this code: print(1/0)?,ValueError,TypeError,ZeroDivisionError,ArithmeticError,ZeroDivisionError
+Functions,Medium,How can you pass a variable number of arguments to a function?,*args,*var,**kwargs,*all,*args
+List Comprehensions,Medium,What does this comprehension return: [x for x in range(10) if x%2 == 0]?,Even numbers,Odd numbers,Numbers divisible by 3,Prime numbers,Even numbers
+Error Handling,Hard,Which keyword is used to handle exceptions in Python?,try,catch,throw,except,except
+OOP (Object-Oriented Programming),Easy,What is the difference between a class method and an instance method?,Class methods cannot access instance variables,Instance methods cannot access class variables,Class methods can access both instance and class variables,There is no difference,Class methods cannot access instance variables
+Generators,Hard,What does the yield keyword do in a Python function?,Terminates the function,Returns a value and pauses the function,Loops indefinitely,Creates a list,Returns a value and pauses the function
+Control Flow,Easy,What will be the output of the following code: if 5 > 3: print('Yes')?,Yes,No,Error,Nothing,Yes
+OOP (Object-Oriented Programming),Hard,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+Control Flow,Easy,Which keyword is used to skip an iteration in a loop?,break,pass,skip,continue,continue
+Decorators,Hard,Which of the following is an example of a built-in decorator?,@staticmethod,@classmethod,@decorator,@staticmethod and @classmethod,@staticmethod and @classmethod
+Control Flow,Hard,Which keyword is used to skip an iteration in a loop?,break,pass,skip,continue,continue
+List Comprehensions,Hard,Which of the following creates a list of squares from 1 to 5?,"[x*x for x in range(1, 6)]",[x**2 for x in 1..5],"[x^2 for x in range(1, 6)]","[x*x for x in range(1, 5)]","[x*x for x in range(1, 6)]"
+Error Handling,Hard,What type of error will be raised by this code: print(1/0)?,ValueError,TypeError,ZeroDivisionError,ArithmeticError,ZeroDivisionError
+Modules and Packages,Hard,How do you install an external package in Python?,install package,python get package,pip install,download package,pip install
+Data Structures,Medium,Which is a mutable data structure in Python?,Tuple,Set,List,String,List
+OOP (Object-Oriented Programming),Easy,What is the difference between a class method and an instance method?,Class methods cannot access instance variables,Instance methods cannot access class variables,Class methods can access both instance and class variables,There is no difference,Class methods cannot access instance variables
+Functions,Medium,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Control Flow,Medium,Which keyword is used to skip an iteration in a loop?,break,pass,skip,continue,continue
+List Comprehensions,Easy,Which of the following creates a list of squares from 1 to 5?,"[x*x for x in range(1, 6)]",[x**2 for x in 1..5],"[x^2 for x in range(1, 6)]","[x*x for x in range(1, 5)]","[x*x for x in range(1, 6)]"
+OOP (Object-Oriented Programming),Easy,Which of the following is a correct way to inherit a class in Python?,class A: class B,class B(A),inherit class A,def A -> B,class B(A)
+Data Structures,Medium,Which is a mutable data structure in Python?,Tuple,Set,List,String,List
+List Comprehensions,Hard,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+Functions,Medium,What is the default return value of a Python function if no return is specified?,None,0,False,Error,None
+List Comprehensions,Hard,What does this comprehension return: [x for x in range(10) if x%2 == 0]?,Even numbers,Odd numbers,Numbers divisible by 3,Prime numbers,Even numbers
+Decorators,Hard,Which symbol is used to apply a decorator in Python?,@,#,&,*,@
+File Handling,Medium,What is the correct way to write to a file?,write.file(),file.write(),write(file),output.write(),file.write()
+Error Handling,Hard,How can you raise an exception in Python?,throw(),raise(),except(),error(),raise()
+Modules and Packages,Hard,Which command is used to import a module in Python?,import,include,load,fetch,import
+List Comprehensions,Easy,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+List Comprehensions,Hard,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+Error Handling,Hard,Which keyword is used to handle exceptions in Python?,try,catch,throw,except,except
+Data Types and Variables,Hard,What is the result of '5' + 5 in Python?,TypeError,10,'55',None,TypeError
+Generators,Easy,What is the key difference between a generator and a normal function?,A generator returns an iterator,A generator uses more memory,A generator cannot take arguments,There is no difference,A generator returns an iterator
+Data Types and Variables,Medium,Which of the following is an immutable data type in Python?,List,Set,Dictionary,Tuple,Tuple
+Functions,Easy,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+OOP (Object-Oriented Programming),Hard,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+OOP (Object-Oriented Programming),Medium,What is the difference between a class method and an instance method?,Class methods cannot access instance variables,Instance methods cannot access class variables,Class methods can access both instance and class variables,There is no difference,Class methods cannot access instance variables
+Control Flow,Easy,How do you check if a condition is false in Python?,if not,if false,if None,if 0,if not
+Functions,Hard,What is the default return value of a Python function if no return is specified?,None,0,False,Error,None
+OOP (Object-Oriented Programming),Easy,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+Modules and Packages,Medium,Which command is used to import a module in Python?,import,include,load,fetch,import
+Data Structures,Easy,Which data structure does not allow duplicates?,List,Set,Dictionary,Tuple,Set
+Control Flow,Easy,What will be the output of the following code: if 5 > 3: print('Yes')?,Yes,No,Error,Nothing,Yes
+OOP (Object-Oriented Programming),Hard,Which of the following is a correct way to inherit a class in Python?,class A: class B,class B(A),inherit class A,def A -> B,class B(A)
+Control Flow,Hard,Which keyword is used to skip an iteration in a loop?,break,pass,skip,continue,continue
+List Comprehensions,Medium,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+Decorators,Easy,Which symbol is used to apply a decorator in Python?,@,#,&,*,@
+File Handling,Easy,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+Data Structures,Medium,Which is a mutable data structure in Python?,Tuple,Set,List,String,List
+Decorators,Medium,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+Functions,Easy,What is the default return value of a Python function if no return is specified?,None,0,False,Error,None
+Data Types and Variables,Hard,What keyword is used to define a variable in Python?,let,var,def,No keyword is required,No keyword is required
+Data Structures,Medium,Which data structure is used to store key-value pairs?,List,Set,Tuple,Dictionary,Dictionary
+List Comprehensions,Hard,What does this comprehension return: [x for x in range(10) if x%2 == 0]?,Even numbers,Odd numbers,Numbers divisible by 3,Prime numbers,Even numbers
+OOP (Object-Oriented Programming),Easy,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+Decorators,Medium,Which of the following is an example of a built-in decorator?,@staticmethod,@classmethod,@decorator,@staticmethod and @classmethod,@staticmethod and @classmethod
+Data Structures,Medium,Which data structure is used to store key-value pairs?,List,Set,Tuple,Dictionary,Dictionary
+Functions,Hard,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Modules and Packages,Medium,How do you install an external package in Python?,install package,python get package,pip install,download package,pip install
+Modules and Packages,Medium,Which command is used to import a module in Python?,import,include,load,fetch,import
+Modules and Packages,Medium,Which method is used to display all functions and attributes of a module?,dir(),info(),show(),module.info(),dir()
+List Comprehensions,Easy,Which keyword is used for filtering in list comprehensions?,if,for,in,filter,if
+OOP (Object-Oriented Programming),Hard,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+Error Handling,Hard,Which keyword is used to handle exceptions in Python?,try,catch,throw,except,except
+Modules and Packages,Easy,Which method is used to display all functions and attributes of a module?,dir(),info(),show(),module.info(),dir()
+Generators,Hard,What does the yield keyword do in a Python function?,Terminates the function,Returns a value and pauses the function,Loops indefinitely,Creates a list,Returns a value and pauses the function
+Decorators,Easy,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+OOP (Object-Oriented Programming),Easy,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+Decorators,Medium,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+Decorators,Easy,Which of the following is an example of a built-in decorator?,@staticmethod,@classmethod,@decorator,@staticmethod and @classmethod,@staticmethod and @classmethod
+Functions,Easy,How can you pass a variable number of arguments to a function?,*args,*var,**kwargs,*all,*args
+List Comprehensions,Medium,What does this comprehension return: [x for x in range(10) if x%2 == 0]?,Even numbers,Odd numbers,Numbers divisible by 3,Prime numbers,Even numbers
+Functions,Medium,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+File Handling,Medium,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+File Handling,Easy,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+Decorators,Easy,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+Data Structures,Easy,Which data structure is used to store key-value pairs?,List,Set,Tuple,Dictionary,Dictionary
+Data Structures,Easy,Which is a mutable data structure in Python?,Tuple,Set,List,String,List
+Decorators,Medium,Which symbol is used to apply a decorator in Python?,@,#,&,*,@
+Data Structures,Medium,Which data structure is used to store key-value pairs?,List,Set,Tuple,Dictionary,Dictionary
+Modules and Packages,Easy,How do you install an external package in Python?,install package,python get package,pip install,download package,pip install
+Data Types and Variables,Easy,What keyword is used to define a variable in Python?,let,var,def,No keyword is required,No keyword is required
+Error Handling,Hard,Which keyword is used to handle exceptions in Python?,try,catch,throw,except,except
+Decorators,Medium,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+File Handling,Medium,What is the correct way to write to a file?,write.file(),file.write(),write(file),output.write(),file.write()
+File Handling,Easy,Which mode opens a file for both reading and writing?,r+,rw,r/w,readwrite,r+
+Error Handling,Easy,How can you raise an exception in Python?,throw(),raise(),except(),error(),raise()
+Control Flow,Medium,Which keyword is used to skip an iteration in a loop?,break,pass,skip,continue,continue
+Control Flow,Medium,How do you check if a condition is false in Python?,if not,if false,if None,if 0,if not
+Data Types and Variables,Hard,What keyword is used to define a variable in Python?,let,var,def,No keyword is required,No keyword is required
+OOP (Object-Oriented Programming),Easy,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+Functions,Hard,What is the default return value of a Python function if no return is specified?,None,0,False,Error,None
+Decorators,Hard,Which of the following is an example of a built-in decorator?,@staticmethod,@classmethod,@decorator,@staticmethod and @classmethod,@staticmethod and @classmethod
+List Comprehensions,Easy,What does this comprehension return: [x for x in range(10) if x%2 == 0]?,Even numbers,Odd numbers,Numbers divisible by 3,Prime numbers,Even numbers
+Error Handling,Easy,Which keyword is used to handle exceptions in Python?,try,catch,throw,except,except
+Data Structures,Easy,Which data structure is used to store key-value pairs?,List,Set,Tuple,Dictionary,Dictionary
+Functions,Easy,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Data Types and Variables,Medium,Which of the following is an immutable data type in Python?,List,Set,Dictionary,Tuple,Tuple
+Generators,Hard,What is the key difference between a generator and a normal function?,A generator returns an iterator,A generator uses more memory,A generator cannot take arguments,There is no difference,A generator returns an iterator
+Data Types and Variables,Medium,What is the result of '5' + 5 in Python?,TypeError,10,'55',None,TypeError
+Data Types and Variables,Hard,What is the result of '5' + 5 in Python?,TypeError,10,'55',None,TypeError
+File Handling,Easy,What is the correct way to write to a file?,write.file(),file.write(),write(file),output.write(),file.write()
+OOP (Object-Oriented Programming),Easy,Which of the following is a correct way to inherit a class in Python?,class A: class B,class B(A),inherit class A,def A -> B,class B(A)
+Error Handling,Medium,How can you raise an exception in Python?,throw(),raise(),except(),error(),raise()
+File Handling,Medium,How do you properly close a file in Python?,end(),terminate(),close(),stop(),close()
+Data Structures,Medium,Which data structure is used to store key-value pairs?,List,Set,Tuple,Dictionary,Dictionary
+Data Types and Variables,Hard,What keyword is used to define a variable in Python?,let,var,def,No keyword is required,No keyword is required
+Functions,Easy,How can you pass a variable number of arguments to a function?,*args,*var,**kwargs,*all,*args
+Decorators,Easy,What is a decorator in Python?,A function that modifies another function,A variable in Python,A loop control statement,A class method,A function that modifies another function
+Functions,Hard,What is the default return value of a Python function if no return is specified?,None,0,False,Error,None
+OOP (Object-Oriented Programming),Medium,What is the purpose of the __init__ method in Python?,Initialize object state,Return object data,Execute before class definition,Destroy object,Initialize object state
+OOP (Object-Oriented Programming),Medium,Which of the following is a correct way to inherit a class in Python?,class A: class B,class B(A),inherit class A,def A -> B,class B(A)
+OOP (Object-Oriented Programming),Medium,What is the difference between a class method and an instance method?,Class methods cannot access instance variables,Instance methods cannot access class variables,Class methods can access both instance and class variables,There is no difference,Class methods cannot access instance variables
+OOP (Object-Oriented Programming),Easy,What is the difference between a class method and an instance method?,Class methods cannot access instance variables,Instance methods cannot access class variables,Class methods can access both instance and class variables,There is no difference,Class methods cannot access instance variables
+Functions,Hard,Which keyword is used to create a function in Python?,fun,function,def,lambda,def
+Decorators,Medium,Which of the following is an example of a built-in decorator?,@staticmethod,@classmethod,@decorator,@staticmethod and @classmethod,@staticmethod and @classmethod
+Generators,Hard,What does the yield keyword do in a Python function?,Terminates the function,Returns a value and pauses the function,Loops indefinitely,Creates a list,Returns a value and pauses the function
+Modules and Packages,Hard,How do you install an external package in Python?,install package,python get package,pip install,download package,pip install
+Data Types and Variables,Easy,What is the result of '5' + 5 in Python?,TypeError,10,'55',None,TypeError

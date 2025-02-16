@@ -1,0 +1,12 @@
+Flask-SQLAlchemy
+Flask-CORS
+Flask
+python-dotenv
+SQLAlchemy
+pandas
+scikit-learn
+numpy
+Werkzeug
+python-dotenv
+psycopg2-binary
+psycopg2
